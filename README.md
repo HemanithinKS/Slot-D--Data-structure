@@ -16,10 +16,17 @@ LIST OF PROGRAMS
 
 4.	Write a C program to find Fibonacci series without using Recursion
 
+![4](https://user-images.githubusercontent.com/113330982/193623839-0f88e6d3-d47d-4b1f-b1ef-d1dfdaf50e29.png)
 
 
 5.	Write a C program to find Factorial of a given number using Recursion
+
+![5](https://user-images.githubusercontent.com/113330982/193623878-5728c2ac-41a7-4238-a99d-4262091cd865.png)
+
 6.	Write a C program to find Fibonacci series using Recursion
+
+![6](https://user-images.githubusercontent.com/113330982/193623902-7fc264a7-b96b-4cac-8765-0a86d027842e.png)
+
 7.	Write a C program to implement Array operations such as Insert, Delete and Display.
 8.	Write a C program to search a number using Linear Search method
 9.	Write a C program to search a number using Binary Search method 
