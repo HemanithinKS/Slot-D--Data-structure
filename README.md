@@ -3,9 +3,21 @@
 CSA03 - DATA STRUCTURES
 LIST OF PROGRAMS
 1.	Write a C program to perform Matrix Multiplication
+
+![1st](https://user-images.githubusercontent.com/113330982/193623608-341d18c2-0b8f-4542-9439-cfea3b7a3513.png)
+
 2.	Write a C program to find Odd or Even number from a given set of numbers
+
+![2](https://user-images.githubusercontent.com/113330982/193623648-7ee01a54-5051-437b-9a2e-7486cca9ce92.png)
+
 3.	Write a C program to find Factorial of a given number without using Recursion
+
+![3](https://user-images.githubusercontent.com/113330982/193623671-f3a9205e-44c8-46de-a789-31386f420a8c.png)
+
 4.	Write a C program to find Fibonacci series without using Recursion
+
+
+
 5.	Write a C program to find Factorial of a given number using Recursion
 6.	Write a C program to find Fibonacci series using Recursion
 7.	Write a C program to implement Array operations such as Insert, Delete and Display.
