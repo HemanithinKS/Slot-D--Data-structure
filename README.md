@@ -39,7 +39,10 @@ LIST OF PROGRAMS
 
 ![9](https://user-images.githubusercontent.com/113330982/194005755-beeaa673-c5c8-4a14-a02d-9303f06d719c.png)
 
-10.	Write a C program to implement Linked list operations
+10.	Write a C program to implement Linked list operations.
+
+![10](https://user-images.githubusercontent.com/113330982/194007435-bb3e073f-d455-429e-8090-eae2b09aee1d.png)
+
 11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK
 12.	Write a C program to implement the application of Stack (Notations)
 13.	Write a C program to implement Queue operations such as ENQUEUE, DEQUEUE and Display 
