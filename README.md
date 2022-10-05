@@ -36,6 +36,9 @@ LIST OF PROGRAMS
 ![8](https://user-images.githubusercontent.com/113330982/193999232-18d13abc-5e77-4367-b3e9-f97bc9300fd2.png)
 
 9.	Write a C program to search a number using Binary Search method 
+
+![9](https://user-images.githubusercontent.com/113330982/194005755-beeaa673-c5c8-4a14-a02d-9303f06d719c.png)
+
 10.	Write a C program to implement Linked list operations
 11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK
 12.	Write a C program to implement the application of Stack (Notations)
