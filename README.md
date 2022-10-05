@@ -28,7 +28,13 @@ LIST OF PROGRAMS
 ![6](https://user-images.githubusercontent.com/113330982/193623902-7fc264a7-b96b-4cac-8765-0a86d027842e.png)
 
 7.	Write a C program to implement Array operations such as Insert, Delete and Display.
+
+![7](https://user-images.githubusercontent.com/113330982/193999205-4d84f600-e584-4f51-8288-4687ba06435d.png)
+
 8.	Write a C program to search a number using Linear Search method
+
+![8](https://user-images.githubusercontent.com/113330982/193999232-18d13abc-5e77-4367-b3e9-f97bc9300fd2.png)
+
 9.	Write a C program to search a number using Binary Search method 
 10.	Write a C program to implement Linked list operations
 11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK
