@@ -43,7 +43,10 @@ LIST OF PROGRAMS
 
 ![10](https://user-images.githubusercontent.com/113330982/194007435-bb3e073f-d455-429e-8090-eae2b09aee1d.png)
 
-11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK
+11.	Write a C program to implement Stack operations such as PUSH, POP and PEEK.
+
+![11](https://user-images.githubusercontent.com/113330982/194226503-9438da0d-48c7-4260-af92-9c0119878537.png)
+
 12.	Write a C program to implement the application of Stack (Notations)
 13.	Write a C program to implement Queue operations such as ENQUEUE, DEQUEUE and Display 
 14.	Write a C program to implement the Tree Traversals (Inorder, Preorder, Postorder)
